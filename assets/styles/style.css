@@ -1,0 +1,16 @@
+p {
+    font-size: 30px;
+}
+
+input {
+    height: 50px;
+    font-size: 30px;
+}
+
+button {
+    width: 150px;
+    height: 150px;
+    font-size: 54px;
+    margin: 20px;
+    background-color: deepskyblue;
+}
